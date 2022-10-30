@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6283816797646']
+global.ownernomer = "6283816797646"
+global.premium = ['6283816797646']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Inc BOTZ'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,13 +62,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygit = 'https://github.com/Bellfroutcs'
+global.myyt = 'https://youtube.com/c/Bellfroutcs'
+global.myytv = '-'
+global.mygc = "-"
+global.botname = 'Inc BOTZ'
+global.akulaku = 'Bot By Ananda DEV'
+global.ytname = 'YT BELLFROUTCS CH'
 
 
 let file = require.resolve(__filename)
