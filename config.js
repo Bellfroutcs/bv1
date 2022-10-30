@@ -61,7 +61,7 @@ global.limitawal = {
     free: 25
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
-global.faall = fs.readFileSync('./media/image/fake.jpg')
+global.faall = fs.readFileSync('./media/image/vier.png')
 global.mygit = 'https://github.com/Bellfroutcs'
 global.myyt = 'https://youtube.com/c/Bellfroutcs'
 global.myytv = '-'
